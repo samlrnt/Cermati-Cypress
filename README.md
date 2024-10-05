@@ -1,7 +1,9 @@
 Cypress Automation Test for Cermati Registration
 
-How to run
+How to run :
 
+Clone repository
+Install dependencies
 npm i
 
 npx cypress run
