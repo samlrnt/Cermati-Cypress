@@ -1,0 +1,23 @@
+{
+  "name": "cermati-cypress",
+  "version": "1.0.0",
+  "description": "Cypress automation for registration flow",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samlrnt/CermatiCypressTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samlrnt/CermatiCypressTest/issues"
+  },
+  "homepage": "https://github.com/samlrnt/CermatiCypressTest#readme",
+  "devDependencies": {
+    "cypress": "^13.15.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
